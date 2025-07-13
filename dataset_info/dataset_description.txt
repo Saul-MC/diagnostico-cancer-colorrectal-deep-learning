@@ -1,0 +1,5 @@
+El conjunto de datos CRCCD-V1 (Colorectal Cancer Cell Dataset) contiene imágenes de células colorrectales clasificadas en 14 tipos diferentes. Este dataset ha sido recolectado y curado para apoyar investigaciones en diagnóstico médico utilizando técnicas de aprendizaje profundo.
+
+Cada imagen representa una clase específica de tejido o afección, organizada en carpetas que corresponden a su etiqueta. Las imágenes están en formato JPEG con resoluciones variadas.
+
+Este dataset es útil para tareas de clasificación multiclase en el campo de la patología digital, permitiendo entrenar y evaluar modelos de visión computacional enfocados en el diagnóstico de cáncer colorrectal.

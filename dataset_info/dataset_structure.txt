@@ -1,0 +1,22 @@
+El dataset CRCCD-V1 contiene la siguiente estructura de carpetas para entrenamiento y prueba:
+
+CRCCD_V1/
+├── Train/
+│   ├── ASCENDINGCOLON_ADENOCARCINOMA/
+│   ├── CASIGMOID_COLON/
+│   ├── CECUM/
+│   ├── COLONADENOCARCINOMA/
+│   ├── ESOPHAGITIS/
+│   ├── HEMORRHOID_suspected_CA_colon/
+│   ├── ILEOCECAL_GROWTH/
+│   ├── POLYPS/
+│   ├── PYLORUS/
+│   ├── RECTADENOCARCINOMA/
+│   ├── RECTGROWTH/
+│   ├── SQUAMUS_CELL_ANAL_CARCINOMA/
+│   ├── ULCERATIVE_COLITIS/
+│   └── Z_LINE/
+└── Test/
+    └── (estructura similar)
+
+Número total de clases: 14

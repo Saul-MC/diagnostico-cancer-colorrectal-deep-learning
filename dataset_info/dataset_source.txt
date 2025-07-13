@@ -1,0 +1,5 @@
+Fuente original del dataset CRCCD-V1:
+
+📍 Kaggle Dataset: https://www.kaggle.com/datasets/abpdash/crccd-v1  
+🔖 Autor: abpdash  
+

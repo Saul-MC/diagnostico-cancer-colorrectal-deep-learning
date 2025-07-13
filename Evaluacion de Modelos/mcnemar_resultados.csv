@@ -1,0 +1,4 @@
+modelo_1,modelo_2,statistic,p_value
+CNN_Simple,ResNet50,102.0,2.870886480471895e-138
+CNN_Simple,DenseNet121,126.0,1.3928385589382767e-48
+ResNet50,DenseNet121,55.0,1.6011040239437063e-257

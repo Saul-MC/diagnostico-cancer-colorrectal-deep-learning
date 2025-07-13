@@ -1,0 +1,4 @@
+Este dataset fue publicado en Kaggle por el usuario abpdash. Según la plataforma, su uso es público para fines educativos y de investigación, bajo los términos de la licencia de Kaggle Datasets.
+
+Se recomienda verificar la licencia directamente en la página del dataset:
+https://www.kaggle.com/datasets/abpdash/crccd-v1
