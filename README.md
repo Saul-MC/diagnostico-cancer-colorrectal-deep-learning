@@ -19,19 +19,32 @@ Desarrollar una herramienta interactiva que permita:
 
 Diagnostico Cancer Colorrectal DeepLearning/
 ├── Notebook/
+
 │ └── Diagnostico Cancer Colorrectal.ipynb ← Notebook principal en Google Colab
+
 ├── Modelos/
+
 │ └── README_modelos.md ← Instrucciones con enlace de descarga de modelos (.h5, .pkl)
+
 ├── Evaluacion de Modelos/
+
 │ ├── resumen_metricas.csv ← Métricas generales por modelo
+
 │ ├── mcnemar_resultados.csv ← Resultados estadísticos McNemar
+
 │ ├── predicciones_modelos.csv ← Predicciones completas
+
 │ ├── classification_report_.csv ← Reportes detallados por clase
 ├── Graficas/
+
 │ ├── confusion_matrix_.png ← Matrices de confusión
+
 │ ├── roc_curve_.png ← Curvas AUC-ROC
+
 │ └── precision_recall_.png ← Curvas Precision-Recall
+
 ├── dataset_info/
+
 │ ├── README_dataset.md ← Información general del dataset
 │ ├── dataset_description.txt ← Descripción del contenido
 │ ├── dataset_structure.txt ← Estructura y clases
